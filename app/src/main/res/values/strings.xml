@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="date">%s</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_shows">Tv Shows</string>
+    <string name="title_favorites">Favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_bookmark">bookmark</string>
+</resources>

@@ -1,0 +1,124 @@
+{
+    "movie": [
+      {
+        "movieId": "1",
+        "title": "A Star Is Born",
+        "release_date":"2018",
+        "release":"05/10/2018",
+        "genres":"Drama, Percintaan, Musik",
+        "runtime":"2h 16m",
+        "score":"75%",
+        "tagline":"",
+        "description":"Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+      },
+      {
+        "movieId": "2",
+        "title": "Alita: Battle Angel",
+        "release_date":"2019",
+        "release":"14/02/2019",
+        "genres":"Aksi, Cerita Fiksi, Petualangan",
+        "runtime":"2h 2m",
+        "score":"72%",
+        "tagline":"An angel falls. A warrior rises.",
+        "description":"Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. lalu.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+      },
+      {
+        "movieId": "3",
+        "title": "Aquaman",
+        "release_date":"2018",
+        "release":"21/12/2018",
+        "genres":"Aksi, Petualangan, Fantasi",
+        "runtime":"2h 23m",
+        "score":"69%",
+        "tagline":"Home Is Calling",
+        "description":"Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg"
+      },
+      {
+        "movieId": "4",
+        "title": "Bohemian Rhapsody",
+        "release_date":"2018",
+        "release":"02/11/2018",
+        "genres":"Musik, Drama, Sejarah",
+        "runtime":"2h 15m",
+        "score":"80%",
+        "tagline":"Fearless lives forever",
+        "description":"Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+      },
+      {
+        "movieId": "5",
+        "title": "Cold Pursuit",
+        "release_date":"2019",
+        "release":"08/02/2019",
+        "genres":"Aksi, Kejahatan, Cerita Seru",
+        "runtime":"1h 59m",
+        "score":"56%",
+        "tagline":"Meet Nels Coxman. Citizen of the Year.",
+        "description":"The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg"
+      },
+      {
+        "movieId": "6",
+        "title": "Creed II",
+        "release_date":"2018",
+        "release":"21/11/2018",
+        "genres":"Drama",
+        "runtime":"2h 10m",
+        "score":"69%",
+        "tagline":"There's More to Lose than a Title",
+        "description":"Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg"
+      },
+      {
+        "movieId": "7",
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "release_date":"2018",
+        "release":"11/16/2018",
+        "genres":"Adventure, Fantasy, Drama",
+        "runtime":"2h 14m",
+        "score":"69%",
+        "tagline":"Fate of One. Future of All.",
+        "description":"Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+      },
+      {
+        "movieId": "8",
+        "title": "Glass",
+        "release_date":"2019",
+        "release":"01/18/2019",
+        "genres":"Thriller, Drama, Science Fiction",
+        "runtime":"2h 9m",
+        "score":"67%",
+        "tagline":"You Cannot Contain What You Are",
+        "description":"In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+      },
+      {
+        "movieId": "9",
+        "title": "Bohemian Rhapsody",
+        "release_date":"2018",
+        "release":"02/11/2018",
+        "genres":"Musik, Drama, Sejarah",
+        "runtime":"2h 15m",
+        "score":"80%",
+        "tagline":"Fearless lives forever",
+        "description":"Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+        "imagePath":"https://www.themoviedb.org/t/p/original/ff4FqoBuetUxZSBrR4hXp7IOc59.jpg"
+      },
+      {
+        "movieId": "10",
+        "title": "How to Train Your Dragon: The Hidden World",
+        "release_date":"2019",
+        "release":"02/22/2019",
+        "genres":"Animation, Family, Adventure",
+        "runtime":"1h 44m",
+        "score":"78%",
+        "tagline":"The friendship of a lifetime",
+        "description":"As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+        "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+      }
+    ]
+  }
